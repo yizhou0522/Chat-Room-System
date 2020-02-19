@@ -1,2 +1,2 @@
 # Chat-Room-System
-An LAN based p2p Android App
+An p2p Android App using Java Socket TCP communication
